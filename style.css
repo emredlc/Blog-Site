@@ -39,7 +39,7 @@
     color: #F1F6F9 !important;
 }
 
-@media (max-width:767px) {
+@media (max-width:768px) {
 .nav-link{
     color: #000 !important;
     font-weight: bold;
@@ -57,7 +57,7 @@
 display: none;
 }
 
-@media (max-width:767px) {
+@media (max-width:768px) {
 .navbar__search{
   
     position: relative;

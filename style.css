@@ -27,3 +27,49 @@
     }
 }
 
+
+
+.navbar__color{
+    background: #085E7D !important;
+    color: #EEEEEE !important;
+   
+}
+
+.nav-link{
+    color: #F1F6F9 !important;
+}
+
+@media (max-width:767px) {
+.nav-link{
+    color: #000 !important;
+    font-weight: bold;
+    font-size: large;
+    border-bottom: 1px solid #495464;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+}
+
+.logo{
+display: none;
+}
+
+@media (max-width:767px) {
+.navbar__search{
+  
+    position: relative;
+    top: 20%;
+}
+
+.logo{
+    display: inline-block;
+    margin: auto;
+    font-weight: bold; 
+    font-size: xx-large;
+}
+
+
+}
